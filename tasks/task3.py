@@ -2,8 +2,8 @@
 # from datetime import datetime, timezone
 
 # # Define your API key and secret here
-# api_key = ''
-# api_secret = ''
+# api_key = '' # <-- put your Binance API key here
+# api_secret = '' <-- put your Binance API secret here
 
 # # Initialize the Binance client
 # client = Client(api_key, api_secret)
@@ -33,6 +33,8 @@
 #     symbol = 'ETHUSDT'
 #     start_str = '2023-01-01'
 #     end_str = '2023-01-02'
+#     # start_str = '2022-12-31'
+#     # end_str = '2023-01-01'
     
 #     # Ensure we are using UTC time
 #     start_time = datetime.strptime(start_str, '%Y-%m-%d').replace(tzinfo=timezone.utc)
@@ -48,6 +50,7 @@
 
 # if __name__ == "__main__":
 #     main()
+
 
 
 def main():

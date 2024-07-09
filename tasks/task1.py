@@ -50,7 +50,7 @@ def main():
     straight_line_distance_km = np.sqrt((x2 - x1)**2 + (y2 - y1)**2 + (z2 - z1)**2)
 
     print('=== Task 1 ===')
-    print(f'surface distance (Haversine formula): {surface_distance_km} km, straight line distance (Euclidian): {straight_line_distance_km}')
+    print(f'surface distance (Haversine formula): {surface_distance_km} km, straight line distance (Euclidian): {straight_line_distance_km} km')
     print(" ")
 
 if __name__ == "__main__":
