@@ -2,8 +2,8 @@
 # from datetime import datetime, timezone
 
 # # Define your API key and secret here
-# api_key = '96WMyIxTYzyX3Te6Gck6yZNyBUVYJW6gJH2zKXsA5ZaJaFPMyte7laUMlx2GAsYR'
-# api_secret = 'iJt2kEjSbCBUBS6KKEthCXmEU3kDJWF6MrBMARSkfTu6l70SHoSlzNzKhAjC7G5E'
+# api_key = ''
+# api_secret = ''
 
 # # Initialize the Binance client
 # client = Client(api_key, api_secret)
